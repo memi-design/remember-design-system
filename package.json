@@ -1,12 +1,12 @@
 {
   "name": "@memi-design/skill-remember-design-system",
-  "version": "2.5.0",
+  "version": "2.7.9",
   "private": true,
   "description": "A repository-specific preflight brief for tokens, components, routes, conventions, and verification commands before interface work.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarveshsea/memi.git",
+    "url": "https://github.com/memi-design/memi.git",
     "directory": "skills/remember-design-system"
   },
   "files": [

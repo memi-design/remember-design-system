@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "skill": "remember-design-system",
-  "sourceRepository": "https://github.com/sarveshsea/memi",
-  "sourceRef": "main",
+  "sourceRepository": "https://github.com/memi-design/memi",
+  "sourceRef": "70c9f4ad8b9823f67b5b16a06be9a42064aa6f04",
   "sourcePath": "skills/remember-design-system/SKILL.md",
-  "sourceVersion": "2.5.0",
+  "sourceVersion": "2.7.9",
   "exportedBy": "scripts/export-focused-skills.mjs",
   "memiEnhancementIncluded": false
 }
